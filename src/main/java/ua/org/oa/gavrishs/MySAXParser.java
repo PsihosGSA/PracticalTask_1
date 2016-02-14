@@ -19,14 +19,18 @@ public class MySAXParser extends DefaultHandler {
 
     @Override
     public void startDocument() throws SAXException {
+        //замеряем время вначале парсинга
         beginTime = System.currentTimeMillis();
+        //выводим в кансоль сообщение о начале документа
         System.out.println("Start document");
     }
 
     @Override
     public void endDocument() throws SAXException {
+        //выводим в консоль о конце парсинга
         System.out.println("End document");
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        //выводим в консоль время затраченое на парсинг посредством вычитания из текущеного времени времени начала
         System.out.printf("processing time: %15dms.\n",System.currentTimeMillis()- beginTime);
     }
 
@@ -41,26 +45,20 @@ public class MySAXParser extends DefaultHandler {
                 curentProduct = new Product();
                 curentProduct.id = Long.valueOf(atts.getValue("id"));
                 break;
-
-//            default:
-//                System.out.println("startElement " + qName);
         }
-
+        //инициализируем curentElement
         curentElement = qName;
-
-
     }
 
     @Override
     public void endElement(String namespaceURI, String localName, String qName ) throws SAXException {
+        //если goods то добавляем curentProduct, который успел наполниться данными, в myShop посредством метода addProduct
         switch (qName){
             case "goods":
                 myShop.addProduct(curentProduct);
                 break;
-
-//            default:
-//                System.out.println("endElement " + qName);
         }
+        //обнуляем curentElement
         curentElement = "";
 
     }
@@ -68,6 +66,7 @@ public class MySAXParser extends DefaultHandler {
 
     @Override
     public void characters(char[] ch, int start, int length) throws SAXException {
+        //вносим иниформацию из элементов в соответствующие переменные curentProduct
         if (curentElement.equals("name")){
             curentProduct.name = new String(ch, start, length);
         }
@@ -80,11 +79,5 @@ public class MySAXParser extends DefaultHandler {
         if (curentElement.equals("description")){
             curentProduct.description = new String(ch, start, length);
         }
-
-//
-//            public String name;
-//        public double price;
-//        public String category;
-//        public String description;
     }
 }

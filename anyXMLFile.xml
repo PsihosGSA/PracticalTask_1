@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shop>
+    <goods id="1">
+        <name>product0</name>
+        <price>0.10320991892431153</price>
+        <category>babyShoose0</category>
+        <description>description</description>
+    </goods>
+    <goods id="2">
+        <name>product1</name>
+        <price>0.4553250914502375</price>
+        <category>babyShoose1</category>
+        <description>description</description>
+    </goods>
+    <goods id="3">
+        <name>product2</name>
+        <price>0.737446116642776</price>
+        <category>babyShoose2</category>
+        <description>description</description>
+    </goods>
+    <goods id="4">
+        <name>product3</name>
+        <price>0.764897734425156</price>
+        <category>babyShoose3</category>
+        <description>description</description>
+    </goods>
+    <goods id="5">
+        <name>product4</name>
+        <price>0.8535227793038085</price>
+        <category>babyShoose4</category>
+        <description>description</description>
+    </goods>
+    <goods id="6">
+        <name>product5</name>
+        <price>0.6399158911701063</price>
+        <category>babyShoose5</category>
+        <description>description</description>
+    </goods>
+    <goods id="7">
+        <name>product6</name>
+        <price>0.4758907065737805</price>
+        <category>babyShoose6</category>
+        <description>description</description>
+    </goods>
+    <goods id="8">
+        <name>product7</name>
+        <price>0.8962572182014245</price>
+        <category>babyShoose7</category>
+        <description>description</description>
+    </goods>
+    <goods id="9">
+        <name>product8</name>
+        <price>0.0873739691135903</price>
+        <category>babyShoose8</category>
+        <description>description</description>
+    </goods>
+    <goods id="10">
+        <name>product9</name>
+        <price>0.1537289933506083</price>
+        <category>babyShoose9</category>
+        <description>description</description>
+    </goods>
+    <goods id="11">
+        <name>product10</name>
+        <price>0.9399441362370273</price>
+        <category>babyShoose10</category>
+        <description>description</description>
+    </goods>
+    <goods id="12">
+        <name>product11</name>
+        <price>0.656665082787093</price>
+        <category>babyShoose11</category>
+        <description>description</description>
+    </goods>
+    <goods id="13">
+        <name>product12</name>
+        <price>0.7249363221243811</price>
+        <category>babyShoose12</category>
+        <description>description</description>
+    </goods>
+    <goods id="14">
+        <name>product13</name>
+        <price>0.22607206591792772</price>
+        <category>babyShoose13</category>
+        <description>description</description>
+    </goods>
+    <goods id="15">
+        <name>product14</name>
+        <price>0.7906186003312301</price>
+        <category>babyShoose14</category>
+        <description>description</description>
+    </goods>
+    <goods id="16">
+        <name>product15</name>
+        <price>0.6268646355946905</price>
+        <category>babyShoose15</category>
+        <description>description</description>
+    </goods>
+    <goods id="17">
+        <name>product16</name>
+        <price>0.04124237375521278</price>
+        <category>babyShoose16</category>
+        <description>description</description>
+    </goods>
+    <goods id="18">
+        <name>product17</name>
+        <price>0.30092452100902234</price>
+        <category>babyShoose17</category>
+        <description>description</description>
+    </goods>
+    <goods id="19">
+        <name>product18</name>
+        <price>0.7246883580032503</price>
+        <category>babyShoose18</category>
+        <description>description</description>
+    </goods>
+    <goods id="20">
+        <name>product19</name>
+        <price>0.9260138346196445</price>
+        <category>babyShoose19</category>
+        <description>description</description>
+    </goods>
+    <goods id="21">
+        <name>product20</name>
+        <price>0.5907745196778429</price>
+        <category>babyShoose20</category>
+        <description>description</description>
+    </goods>
+    <goods id="22">
+        <name>product21</name>
+        <price>0.007479835049766015</price>
+        <category>babyShoose21</category>
+        <description>description</description>
+    </goods>
+    <goods id="23">
+        <name>product22</name>
+        <price>0.4075297631844126</price>
+        <category>babyShoose22</category>
+        <description>description</description>
+    </goods>
+    <goods id="24">
+        <name>product23</name>
+        <price>0.16783722926312783</price>
+        <category>babyShoose23</category>
+        <description>description</description>
+    </goods>
+    <goods id="25">
+        <name>product24</name>
+        <price>0.7897062996398344</price>
+        <category>babyShoose24</category>
+        <description>description</description>
+    </goods>
+    <goods id="26">
+        <name>product25</name>
+        <price>0.7704632709881147</price>
+        <category>babyShoose25</category>
+        <description>description</description>
+    </goods>
+    <goods id="27">
+        <name>product26</name>
+        <price>0.4070723894102981</price>
+        <category>babyShoose26</category>
+        <description>description</description>
+    </goods>
+    <goods id="28">
+        <name>product27</name>
+        <price>0.3776742899414417</price>
+        <category>babyShoose27</category>
+        <description>description</description>
+    </goods>
+    <goods id="29">
+        <name>product28</name>
+        <price>0.287294828141321</price>
+        <category>babyShoose28</category>
+        <description>description</description>
+    </goods>
+    <goods id="30">
+        <name>product29</name>
+        <price>0.5083752493888162</price>
+        <category>babyShoose29</category>
+        <description>description</description>
+    </goods>
+    <goods id="31">
+        <name>product30</name>
+        <price>0.4503026539660758</price>
+        <category>babyShoose30</category>
+        <description>description</description>
+    </goods>
+    <goods id="32">
+        <name>product31</name>
+        <price>0.5124225640830957</price>
+        <category>babyShoose31</category>
+        <description>description</description>
+    </goods>
+    <goods id="33">
+        <name>product32</name>
+        <price>0.05186982590639211</price>
+        <category>babyShoose32</category>
+        <description>description</description>
+    </goods>
+    <goods id="34">
+        <name>product33</name>
+        <price>0.7320693619601035</price>
+        <category>babyShoose33</category>
+        <description>description</description>
+    </goods>
+    <goods id="35">
+        <name>product34</name>
+        <price>0.5708322909656005</price>
+        <category>babyShoose34</category>
+        <description>description</description>
+    </goods>
+    <goods id="36">
+        <name>product35</name>
+        <price>0.6677567107232498</price>
+        <category>babyShoose35</category>
+        <description>description</description>
+    </goods>
+    <goods id="37">
+        <name>product36</name>
+        <price>0.04706054119296954</price>
+        <category>babyShoose36</category>
+        <description>description</description>
+    </goods>
+    <goods id="38">
+        <name>product37</name>
+        <price>0.6265808051844188</price>
+        <category>babyShoose37</category>
+        <description>description</description>
+    </goods>
+    <goods id="39">
+        <name>product38</name>
+        <price>0.6193635749457579</price>
+        <category>babyShoose38</category>
+        <description>description</description>
+    </goods>
+    <goods id="40">
+        <name>product39</name>
+        <price>0.4056373454749598</price>
+        <category>babyShoose39</category>
+        <description>description</description>
+    </goods>
+    <goods id="41">
+        <name>product40</name>
+        <price>0.48034615073403475</price>
+        <category>babyShoose40</category>
+        <description>description</description>
+    </goods>
+    <goods id="42">
+        <name>product41</name>
+        <price>0.3758796179594218</price>
+        <category>babyShoose41</category>
+        <description>description</description>
+    </goods>
+    <goods id="43">
+        <name>product42</name>
+        <price>0.16845415715618717</price>
+        <category>babyShoose42</category>
+        <description>description</description>
+    </goods>
+    <goods id="44">
+        <name>product43</name>
+        <price>0.8900063996586874</price>
+        <category>babyShoose43</category>
+        <description>description</description>
+    </goods>
+    <goods id="45">
+        <name>product44</name>
+        <price>0.8687117217884127</price>
+        <category>babyShoose44</category>
+        <description>description</description>
+    </goods>
+    <goods id="46">
+        <name>product45</name>
+        <price>0.07323043608084823</price>
+        <category>babyShoose45</category>
+        <description>description</description>
+    </goods>
+    <goods id="47">
+        <name>product46</name>
+        <price>0.058804302158117605</price>
+        <category>babyShoose46</category>
+        <description>description</description>
+    </goods>
+    <goods id="48">
+        <name>product47</name>
+        <price>0.6796985257185746</price>
+        <category>babyShoose47</category>
+        <description>description</description>
+    </goods>
+    <goods id="49">
+        <name>product48</name>
+        <price>0.5851361184596315</price>
+        <category>babyShoose48</category>
+        <description>description</description>
+    </goods>
+    <goods id="50">
+        <name>product49</name>
+        <price>0.04909850986961428</price>
+        <category>babyShoose49</category>
+        <description>description</description>
+    </goods>
+    <goods id="51">
+        <name>product50</name>
+        <price>0.7063596033237729</price>
+        <category>babyShoose50</category>
+        <description>description</description>
+    </goods>
+    <goods id="52">
+        <name>product51</name>
+        <price>0.0949810551529956</price>
+        <category>babyShoose51</category>
+        <description>description</description>
+    </goods>
+    <goods id="53">
+        <name>product52</name>
+        <price>0.12483426612204829</price>
+        <category>babyShoose52</category>
+        <description>description</description>
+    </goods>
+    <goods id="54">
+        <name>product53</name>
+        <price>0.3440495900934124</price>
+        <category>babyShoose53</category>
+        <description>description</description>
+    </goods>
+    <goods id="55">
+        <name>product54</name>
+        <price>0.817843135867044</price>
+        <category>babyShoose54</category>
+        <description>description</description>
+    </goods>
+    <goods id="56">
+        <name>product55</name>
+        <price>0.047767345276363504</price>
+        <category>babyShoose55</category>
+        <description>description</description>
+    </goods>
+    <goods id="57">
+        <name>product56</name>
+        <price>0.061620818230613605</price>
+        <category>babyShoose56</category>
+        <description>description</description>
+    </goods>
+    <goods id="58">
+        <name>product57</name>
+        <price>0.35584877784281743</price>
+        <category>babyShoose57</category>
+        <description>description</description>
+    </goods>
+    <goods id="59">
+        <name>product58</name>
+        <price>0.3469002101604026</price>
+        <category>babyShoose58</category>
+        <description>description</description>
+    </goods>
+    <goods id="60">
+        <name>product59</name>
+        <price>0.10543191475537195</price>
+        <category>babyShoose59</category>
+        <description>description</description>
+    </goods>
+    <goods id="61">
+        <name>product60</name>
+        <price>0.5524585696235447</price>
+        <category>babyShoose60</category>
+        <description>description</description>
+    </goods>
+    <goods id="62">
+        <name>product61</name>
+        <price>0.39797174828650805</price>
+        <category>babyShoose61</category>
+        <description>description</description>
+    </goods>
+    <goods id="63">
+        <name>product62</name>
+        <price>0.3638606780344288</price>
+        <category>babyShoose62</category>
+        <description>description</description>
+    </goods>
+    <goods id="64">
+        <name>product63</name>
+        <price>0.34428774870634915</price>
+        <category>babyShoose63</category>
+        <description>description</description>
+    </goods>
+    <goods id="65">
+        <name>product64</name>
+        <price>0.29219896594690653</price>
+        <category>babyShoose64</category>
+        <description>description</description>
+    </goods>
+    <goods id="66">
+        <name>product65</name>
+        <price>0.020999078307953556</price>
+        <category>babyShoose65</category>
+        <description>description</description>
+    </goods>
+    <goods id="67">
+        <name>product66</name>
+        <price>0.009192413370120778</price>
+        <category>babyShoose66</category>
+        <description>description</description>
+    </goods>
+    <goods id="68">
+        <name>product67</name>
+        <price>0.24116966654386573</price>
+        <category>babyShoose67</category>
+        <description>description</description>
+    </goods>
+    <goods id="69">
+        <name>product68</name>
+        <price>0.020718687419872706</price>
+        <category>babyShoose68</category>
+        <description>description</description>
+    </goods>
+    <goods id="70">
+        <name>product69</name>
+        <price>0.46887259656195157</price>
+        <category>babyShoose69</category>
+        <description>description</description>
+    </goods>
+    <goods id="71">
+        <name>product70</name>
+        <price>0.8540415728819704</price>
+        <category>babyShoose70</category>
+        <description>description</description>
+    </goods>
+    <goods id="72">
+        <name>product71</name>
+        <price>0.4502000820309706</price>
+        <category>babyShoose71</category>
+        <description>description</description>
+    </goods>
+    <goods id="73">
+        <name>product72</name>
+        <price>0.041100619436031716</price>
+        <category>babyShoose72</category>
+        <description>description</description>
+    </goods>
+    <goods id="74">
+        <name>product73</name>
+        <price>0.5687501072571811</price>
+        <category>babyShoose73</category>
+        <description>description</description>
+    </goods>
+    <goods id="75">
+        <name>product74</name>
+        <price>0.8008239274360677</price>
+        <category>babyShoose74</category>
+        <description>description</description>
+    </goods>
+    <goods id="76">
+        <name>product75</name>
+        <price>0.8166963799180285</price>
+        <category>babyShoose75</category>
+        <description>description</description>
+    </goods>
+    <goods id="77">
+        <name>product76</name>
+        <price>0.7202033324533353</price>
+        <category>babyShoose76</category>
+        <description>description</description>
+    </goods>
+    <goods id="78">
+        <name>product77</name>
+        <price>0.686203214702808</price>
+        <category>babyShoose77</category>
+        <description>description</description>
+    </goods>
+    <goods id="79">
+        <name>product78</name>
+        <price>0.12265342055734818</price>
+        <category>babyShoose78</category>
+        <description>description</description>
+    </goods>
+    <goods id="80">
+        <name>product79</name>
+        <price>0.39131180171668556</price>
+        <category>babyShoose79</category>
+        <description>description</description>
+    </goods>
+    <goods id="81">
+        <name>product80</name>
+        <price>0.6119084229028743</price>
+        <category>babyShoose80</category>
+        <description>description</description>
+    </goods>
+    <goods id="82">
+        <name>product81</name>
+        <price>0.11676008898131263</price>
+        <category>babyShoose81</category>
+        <description>description</description>
+    </goods>
+    <goods id="83">
+        <name>product82</name>
+        <price>0.3624629898727907</price>
+        <category>babyShoose82</category>
+        <description>description</description>
+    </goods>
+    <goods id="84">
+        <name>product83</name>
+        <price>0.5248850388053463</price>
+        <category>babyShoose83</category>
+        <description>description</description>
+    </goods>
+    <goods id="85">
+        <name>product84</name>
+        <price>0.6685302071829643</price>
+        <category>babyShoose84</category>
+        <description>description</description>
+    </goods>
+    <goods id="86">
+        <name>product85</name>
+        <price>0.4303033525200084</price>
+        <category>babyShoose85</category>
+        <description>description</description>
+    </goods>
+    <goods id="87">
+        <name>product86</name>
+        <price>0.5909941968506819</price>
+        <category>babyShoose86</category>
+        <description>description</description>
+    </goods>
+    <goods id="88">
+        <name>product87</name>
+        <price>0.3481058264587109</price>
+        <category>babyShoose87</category>
+        <description>description</description>
+    </goods>
+    <goods id="89">
+        <name>product88</name>
+        <price>0.9873177294325187</price>
+        <category>babyShoose88</category>
+        <description>description</description>
+    </goods>
+    <goods id="90">
+        <name>product89</name>
+        <price>0.8365910744931634</price>
+        <category>babyShoose89</category>
+        <description>description</description>
+    </goods>
+    <goods id="91">
+        <name>product90</name>
+        <price>0.9574017011676866</price>
+        <category>babyShoose90</category>
+        <description>description</description>
+    </goods>
+    <goods id="92">
+        <name>product91</name>
+        <price>0.06998738484426348</price>
+        <category>babyShoose91</category>
+        <description>description</description>
+    </goods>
+    <goods id="93">
+        <name>product92</name>
+        <price>0.6766745724754925</price>
+        <category>babyShoose92</category>
+        <description>description</description>
+    </goods>
+    <goods id="94">
+        <name>product93</name>
+        <price>0.5981761050929144</price>
+        <category>babyShoose93</category>
+        <description>description</description>
+    </goods>
+    <goods id="95">
+        <name>product94</name>
+        <price>0.5570393368185503</price>
+        <category>babyShoose94</category>
+        <description>description</description>
+    </goods>
+    <goods id="96">
+        <name>product95</name>
+        <price>0.5652684779927373</price>
+        <category>babyShoose95</category>
+        <description>description</description>
+    </goods>
+    <goods id="97">
+        <name>product96</name>
+        <price>0.7206665070150062</price>
+        <category>babyShoose96</category>
+        <description>description</description>
+    </goods>
+    <goods id="98">
+        <name>product97</name>
+        <price>0.8812575125042488</price>
+        <category>babyShoose97</category>
+        <description>description</description>
+    </goods>
+    <goods id="99">
+        <name>product98</name>
+        <price>0.38806475424194586</price>
+        <category>babyShoose98</category>
+        <description>description</description>
+    </goods>
+    <goods id="100">
+        <name>product99</name>
+        <price>0.6632518994189833</price>
+        <category>babyShoose99</category>
+        <description>description</description>
+    </goods>
+</shop>

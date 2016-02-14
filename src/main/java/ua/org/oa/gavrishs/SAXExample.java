@@ -2,6 +2,7 @@ package ua.org.oa.gavrishs;
 
 
 import org.xml.sax.SAXException;
+import ua.org.oa.gavrishs.model.Shop;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
@@ -18,7 +19,7 @@ public class SAXExample {
 
         File file = new File (XML_FILE_PATH);
 
-
+        // create factory
         SAXParserFactory factory = SAXParserFactory.newInstance();
         SAXParser parser = factory.newSAXParser();
         MySAXParser saxp = new MySAXParser();
@@ -26,5 +27,7 @@ public class SAXExample {
 
         parser.parse(file, saxp);
         System.out.println(saxp.myShop);
+
+        Shop myShop = saxp.myShop;
     }
 }
