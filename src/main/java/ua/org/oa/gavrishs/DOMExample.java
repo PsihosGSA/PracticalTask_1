@@ -50,7 +50,7 @@ public class DOMExample {
 
                 //методом addProduct добавляем в myShop продукт созданный методом createProduct которому даем в качестве аргументов
                 //переменные полученные от элементов с соответствующими именами, при этом получаем String
-                //по этому приходиться price приводить к Double
+                //по этому price приводим к Double
                 myShop.addProduct(createProduct(
                     eElement.getElementsByTagName("name").item(0).getTextContent(),
                     Double.valueOf(eElement.getElementsByTagName("price").item(0).getTextContent()),
