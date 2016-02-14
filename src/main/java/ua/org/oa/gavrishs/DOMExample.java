@@ -8,7 +8,6 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
-import ua.org.oa.gavrishs.model.Product;
 import ua.org.oa.gavrishs.model.Shop;
 import ua.org.oa.gavrishs.utils.Utils;
 
@@ -40,13 +39,18 @@ public class DOMExample {
 //            myShop = Utils.createShop();
 //        }
 
+        //создаем NodeList из элементов с название тэгов goods
         NodeList nList = doc.getElementsByTagName("goods");
+        //перебираем его элементы fori
         for (int temp = 0; temp < nList.getLength(); temp++) {
-            System.out.println(1);
-            Node nNode = nList.item(temp);
-            if (nNode.getNodeType() == Node.ELEMENT_NODE) {
-                Element eElement = (Element) nNode;
 
+            Node nNode = nList.item(temp);                      //получаем Node
+            if (nNode.getNodeType() == Node.ELEMENT_NODE) {     //проверяем является ли он элементом
+                Element eElement = (Element) nNode;             //приводим полученный Нод к элементу и присваеваем его переменной
+
+                //методом addProduct добавляем в myShop продукт созданный методом createProduct которому даем в качестве аргументов
+                //переменные полученные от элементов с соответствующими именами, при этом получаем String
+                //по этому приходиться price приводить к Double
                 myShop.addProduct(createProduct(
                     eElement.getElementsByTagName("name").item(0).getTextContent(),
                     Double.valueOf(eElement.getElementsByTagName("price").item(0).getTextContent()),
